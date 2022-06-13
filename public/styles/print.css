@@ -1,0 +1,42 @@
+/*  
+  **************************************
+  **************************************
+  ***                                ***
+  ***    Auther: Dhruval Viradiya    ***
+  ***  HTML5/CSS3 Capstone Project   ***
+  ***        WDD 2021 - Fall         ***
+  ***          U of W PACE           ***
+  ***       HTML5/CSS3 Capstone      ***
+  ***        November 30, 2021       ***
+  ***                                ***
+  **************************************
+  **************************************
+  */
+* {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+body {
+  font-size: 12px;
+  width: 100%;
+}
+#main-wrapper {
+  overflow: auto;
+  width: 100%;
+}
+.container {
+  width: 100%;
+}
+
+header {
+  background-color: rgba(1, 70, 102, 0.8);
+}
+.menu-space {
+  display: none;
+}
+
+.section-heading h1,
+.section-heading h2 {
+  font-size: 24px;
+}
